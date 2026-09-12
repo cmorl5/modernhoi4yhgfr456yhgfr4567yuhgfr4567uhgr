@@ -1,0 +1,78 @@
+{
+  "tiles_x": 4,
+  "tiles_y": 2,
+  "tile_size": 1024,
+  "texture_size": [
+    4096,
+    2048
+  ],
+  "provinces_in_definition": 14992,
+  "provinces_in_tiles": 14991,
+  "provinces_lost_to_resize": [
+    0
+  ],
+  "states": 1493,
+  "victory_points": 2488,
+  "countries": 186,
+  "country_names": 186,
+  "country_colors": 581,
+  "province_positions": 14843,
+  "tiles": [
+    {
+      "index": 0,
+      "row": 0,
+      "col": 0,
+      "provinces": 1549,
+      "runs": 48887
+    },
+    {
+      "index": 1,
+      "row": 0,
+      "col": 1,
+      "provinces": 1890,
+      "runs": 54868
+    },
+    {
+      "index": 2,
+      "row": 0,
+      "col": 2,
+      "provinces": 5477,
+      "runs": 99737
+    },
+    {
+      "index": 3,
+      "row": 0,
+      "col": 3,
+      "provinces": 1903,
+      "runs": 55903
+    },
+    {
+      "index": 4,
+      "row": 1,
+      "col": 0,
+      "provinces": 543,
+      "runs": 30660
+    },
+    {
+      "index": 5,
+      "row": 1,
+      "col": 1,
+      "provinces": 1025,
+      "runs": 49203
+    },
+    {
+      "index": 6,
+      "row": 1,
+      "col": 2,
+      "provinces": 1375,
+      "runs": 55163
+    },
+    {
+      "index": 7,
+      "row": 1,
+      "col": 3,
+      "provinces": 1680,
+      "runs": 55757
+    }
+  ]
+}
